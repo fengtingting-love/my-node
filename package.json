@@ -1,0 +1,22 @@
+{
+  "name": "my-node",
+  "version": "1.0.0",
+  "description": "修复jest问题",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengtingting-love/my-node.git"
+  },
+  "keywords": [
+    "fighting.0621"
+  ],
+  "author": "冯婷婷",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fengtingting-love/my-node/issues"
+  },
+  "homepage": "https://github.com/fengtingting-love/my-node#readme"
+}
